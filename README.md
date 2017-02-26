@@ -33,7 +33,7 @@ Lava_Spread:
 ![](./screenshoot/Lava_Spread.png)   
          
 GUI:      
-![](./screenshoot/shadow_map.png)       
+![](./screenshoot/GUI.png)       
 
 
        
