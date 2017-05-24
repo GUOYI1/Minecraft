@@ -18,10 +18,10 @@ Overview:
 ![](./screenshoot/Overview.png)     
        
 Frigid Mountains:     
-![](./screenshoot/Frigid mountains.png)     
+![](./screenshoot/Frigid_mountains.png)     
         
 River System:        
-![](./screenshoot/River system.png)       
+![](./screenshoot/River_system.png)       
        
 Lake:      
 ![](./screenshoot/Lake.png)   
