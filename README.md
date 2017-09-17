@@ -1,6 +1,10 @@
-# Minecraft
-This is a group project implemented by Kaixiang Miu, Jiawei Wang and me.The program is implemented on the platform of QT creator. Right now, this is still a fery simple version and is still stubborn. We will try to accelerate it in the future version.      
-       
+## Minecraft
+This is a group project implemented by Kaixiang Miu, Jiawei Wang and me.The program is implemented on the platform of QT creator. Here is the description for the game.
+
+## ScreenShot
+![](./screenshoot/demo.gif)  
+
+## Features     
 In this minecraft game, the main features include:     
 * Perlin Noise topography    
 * Weather billboard    
